@@ -1,3 +1,16 @@
+Reactilla tehty frontti, joka toimii bootcamp web demon raportointisivuna. ASP.NET Corella tehty backendi. Löytyy myös repona täältä.
+
+Julkaistu alla olevassa linkissä.
+
+https://reactrapo.azurewebsites.net/
+
+Tehty create-react-appin pohjalta, alhaalla lisää siitä.
+
+Graafi tehty käyttäen react-vis visualisointikirjastoa.
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
